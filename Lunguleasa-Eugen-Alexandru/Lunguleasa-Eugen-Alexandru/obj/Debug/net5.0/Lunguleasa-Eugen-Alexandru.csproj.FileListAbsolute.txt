@@ -1,0 +1,16 @@
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.exe
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.deps.json
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.runtimeconfig.json
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.runtimeconfig.dev.json
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.dll
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\ref\Lunguleasa-Eugen-Alexandru.dll
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\bin\Debug\net5.0\Lunguleasa-Eugen-Alexandru.pdb
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.csproj.AssemblyReference.cache
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.AssemblyInfoInputs.cache
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.AssemblyInfo.cs
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.csproj.CoreCompileInputs.cache
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.dll
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\ref\Lunguleasa-Eugen-Alexandru.dll
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.pdb
+C:\Users\11ale\Desktop\Tema2\Lunguleasa-Eugen-Alexandru\Lunguleasa-Eugen-Alexandru\obj\Debug\net5.0\Lunguleasa-Eugen-Alexandru.genruntimeconfig.cache
